@@ -1,4 +1,3 @@
-TAMPILAN APLIKASI
 
 <img width="1920" height="1080" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/e3a7aedf-0279-4fcb-8b3e-460678f0ee1d" />
 <img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/62e74a52-efac-4eb2-bf84-17cc2a5e9672" />
